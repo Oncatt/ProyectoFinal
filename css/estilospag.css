@@ -1,0 +1,32 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0056b3;
+}
+
+.nav-link {
+  color: #0056b3 !important;
+}
+.nav-link:hover, .nav-link.active {
+  color: #ff6600 !important;
+}
+
+.btn-secondary {
+  background-color: #0056b3;
+  color: #ffffff;
+  border: none;
+}
+.btn-secondary:hover {
+  background-color: #ff6600;
+}
+
+a {
+  color: #0056b3;
+}
+a:hover {
+  color: #ff6600;
+}
